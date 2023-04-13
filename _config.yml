@@ -105,4 +105,4 @@ deploy:
   type: ''
   repo: https://github.com/fanfan334326/feifan334326.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+  branch: main
